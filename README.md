@@ -80,7 +80,7 @@ You can load it into a database or work with it directly.
 
 ## 🔐 How to Submit
 
-1. Create a **private repository** on GitHub, GitLab, or Bitbucket.
+1. Create a **private repository** on GitHub.
 2. Share access with: `developer@itsquick.co`
 3. Include a `README.md` with:
    - Setup/run instructions
